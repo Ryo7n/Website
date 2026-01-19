@@ -1,0 +1,22 @@
+# Extracted old content
+website_CALPOs/
+
+# Zip archives
+*.zip
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
